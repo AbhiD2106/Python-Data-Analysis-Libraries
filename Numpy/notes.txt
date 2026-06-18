@@ -1,0 +1,21 @@
+why we need numpy?
+
+ -> python datatypes is slow before , after introduce numpy 
+ -> numpy is c language datatype through wrape it we use it in python 
+    bcz python syntax is easy
+
+arrays vs python sequence
+
+array :
+    - arrays size is fix
+    - single datatype
+
+python:
+    - dynamic size
+    - all datatype int , string ..
+
+-> numpy
+
+ how to install numpy ?
+ 
+PS E:\my_work\Python_libs> python -m pip install numpy
