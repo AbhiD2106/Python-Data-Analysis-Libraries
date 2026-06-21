@@ -1,0 +1,5 @@
+type of data:
+
+-> numerical data 
+-> categorical data
+
