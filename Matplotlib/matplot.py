@@ -37,13 +37,24 @@ print("\n" , batter)
 #linestyles -   dashed , dotted , solid , dashdot
 #marker - d , + , > , < , O 
 
-plt.plot(batter['index'],batter['V Kohli'],color='#D10011',linestyle='dashdot',linewidth=3)
-plt.plot(batter['index'],batter['RG Sharma'],color='#008CFF',linestyle='dashdot',linewidth=2,marker='d')
+# plt.plot(batter['index'],batter['V Kohli'],color='#D10011',linestyle='dashdot',linewidth=3)
+# plt.plot(batter['index'],batter['RG Sharma'],color='#008CFF',linestyle='dashdot',linewidth=2,marker='d' , markersize = 5)
+
+# plt.title('rohit VS kohli')
+# plt.xlabel('season of ipl')
+# plt.ylabel('run scored')
+
+# plt.show() 
+
+
+#Allocation  line 
+
+plt.plot(batter['index'],batter['V Kohli'],color='#D10011',linestyle='dashdot',linewidth=3 , label = 'virat')
+plt.plot(batter['index'],batter['RG Sharma'],color='#008CFF',linestyle='dashdot',linewidth=2,marker='d' , markersize = 5 , label = 'rohit')
 
 plt.title('rohit VS kohli')
 plt.xlabel('season of ipl')
 plt.ylabel('run scored')
+plt.legend()        
 
 plt.show() 
-
-
