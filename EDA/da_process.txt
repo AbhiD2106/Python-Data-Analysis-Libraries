@@ -1,0 +1,15 @@
+1 . asking que
+2.data wrangling
+    A.    
+        1.csv file
+        2.api
+        3.databases
+
+    b.Assessing data
+    
+    c.cleaning data
+
+3. exploratory data analysis
+4. drawing conclusion
+5. results
+
