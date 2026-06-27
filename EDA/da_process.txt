@@ -13,3 +13,11 @@
 4. drawing conclusion
 5. results
 
+-> data cleaning
+
+1 . dirty data 
+        - duplicate data
+        - missing data
+        - corrupt data
+
+2 . messy data
