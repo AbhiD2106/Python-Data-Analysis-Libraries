@@ -21,3 +21,35 @@
         - corrupt data
 
 2 . messy data
+
+
+Why eda?
+
+1. model building
+2. analysis and reporting
+3. assumptions
+4. handile missing value
+5. future engineering
+
+step 1 . set label for coolumn
+
+Column Types for train dataset :
+
+Numerical: Age, Fare, PassengerId
+Categorical: Survived, Pclass, Sex, SibSp, Parch, Embarked
+Mixed: Name, Ticket, Cabin
+
+step 2 : 
+    
+        univariable  =      single variable
+        analysis on single Column
+
+        bievariable analysis = 2 columns analysis
+
+        multivariate analysis = more then 2 columns 
+
+step 3  :
+
+        feture engineering
+
+
